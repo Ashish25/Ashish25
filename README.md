@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish Sahu!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish25&label=Profile%20views&color=0e75b6&style=flat" alt="ashish25" /> </p>
 
-- 👀 Interested in: **Data Exploration and Analysis, building data pipelines and ML Operations**
+- 👀 Interested in: **Data Exploration and Analysis, building data pipelines and cloud operations**
 
-- 🔭 Currently working on: **ML-based Combinatorial Optimization for solving the Realistic Vehicle Routing Problem**
+- 🔭 Research work on: **ML-based Combinatorial Optimization for solving the Realistic Vehicle Routing Problem**
 
-- 🌱 Currently learning: **Advance Machine Learning and Cloud technologies.**
+- 🌱 Currently learning: **Data Engineering and Cloud technologies.**
 
 - 🌈 Exposure Areas : **NLP and Semantic Analytics, AWS, Machine Learning**
 
