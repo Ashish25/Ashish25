@@ -5,7 +5,7 @@
 
 - 👀 Interested in: **Data Exploration and Analysis, building data pipelines and cloud operations**
 
-- 🌈 Exposure Areas : **AWS, Azure, MLOps**
+- 🌈 Exposure Areas : **AWS, Azure, DevOps**
 
 - 🔭 Research work on: **ML-based Combinatorial Optimization for solving the Realistic Vehicle Routing Problem**
 
